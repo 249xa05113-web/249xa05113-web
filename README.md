@@ -65,3 +65,19 @@ Consistency beats talent — and I'm here for the long run 🚀
 </p>
 
 ###
+
+<h2 align="left">📬 Connect with me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/veera-vishnu-vardhan-reddy-guddeti-59a285387/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+  
+  <a href="mailto:249xa05113@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
+  </a>
+</div>
+
+###
