@@ -66,16 +66,7 @@ Consistency beats talent — and I'm here for the long run 🚀
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dracula" height="150"/>
-</div>
-
-###
 
 <h2 align="left">📬 Connect with me</h2>
 
@@ -85,14 +76,12 @@ Consistency beats talent — and I'm here for the long run 🚀
   <a href="https://www.linkedin.com/in/veera-vishnu-vardhan-reddy-guddeti-59a285387/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
-  
+
+  <img width="15" />
+
   <a href="mailto:249xa05113@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="40"/>
   </a>
+<div>gmail-249xa05113@gmail.com</div>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="snake animation"/>
